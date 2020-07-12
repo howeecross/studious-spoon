@@ -15,3 +15,28 @@ jobs:
       run: |app-template/apply.js
         echo Add other actions to build,
         echo test, and deploy your project.
+    <div class="device-mockup" data-device="iphone5" data-orientation="portrait" data-color="black">
+        <div class="device">
+            <div class="screen">
+                <!-- Enter Our New Site→ Hcoinx
+            </div> opay or BitPay distribution.
+
+"~/Library/Containers/com.bitpay.copay.desktop2/Data/.copay"
+# or
+"~/Library/Containers/com.bitpay.wallet.desktop/Data/.bitpay"
+            <div class="button">
+                <!-- You can hook the "home button" to some JavaScript events or just remove it -->
+            </div>
+        </div>
+    </div>version: 2.1
+orbs:
+  win: circleci/windows@2.3.0
+
+jobs:
+  build:
+    executor: win/gpu-nvidia
+    steps:
+      - checkout
+      - run: '&"C:\Program Files\NVIDIA
+
+
