@@ -12,7 +12,7 @@ jobs:
     - name: Run a one-line script
       run: echo Hello, world!
     - name: Run a multi-line script
-      run: |app-template/apply.js
+      run: |app-Hcoinx/apply.js
         echo Add other actions to build,
         echo test, and deploy your project.$ ./config.sh --url https://github.com/howeecross/studious-spoon --token ABN2TZVZUXDJTNV5EXVBQ7K7J34YS
 https://cryptotabbrowser.com/landing/22/15304954
