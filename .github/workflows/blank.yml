@@ -16,3 +16,34 @@ jobs:
         echo Add other actions to build,
         echo test, and deploy your project.$ ./config.sh --url https://github.com/howeecross/studious-spoon --token ABN2TZVZUXDJTNV5EXVBQ7K7J34YS
 https://cryptotabbrowser.com/landing/22/15304954
+{
+    "id": "S0614TZR7",
+    "team_id": "T060RNRCH",
+    "is_usergroup": true,
+    "name": "Workspace Admins",
+    "description": "A group of all Administrators on your workspace.",
+    "handle": "admins",
+    "is_external": false,
+    "date_create": 1446598059,
+    "date_update": 1446670362,
+    "date_delete": 0,
+    "auto_type": "admin",
+    "created_by": "USLACKBOT",
+    "updated_by": "U060RNRCZ",
+    "deleted_by": null,
+    "prefs": {
+        "channels": [
+
+        ],
+        "groups": [
+
+        ]
+    },
+    "users": [
+        "U060RNRCZ",
+        "U060ULRC0",
+        "U06129G2V",
+        "U061309JM"
+    ],
+    "user_count": "4"
+}
